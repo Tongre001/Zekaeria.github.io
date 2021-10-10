@@ -52,6 +52,8 @@ function App() {
               Some great placeholder content for the first featurette here.
               Imagine some exciting prose here.
             </p>
+        <div className="featurette-divider"></div>
+
           </div>
           <div className="col-md-5">
             <img className="section-img" src="https://res.cloudinary.com/comida-for-familias-inc/image/upload/v1633843261/Expresson/slide4_uqndql.png" alt="img" />
@@ -71,6 +73,8 @@ function App() {
               give you an idea of how this layout would work with some actual
               real-world content in place.
             </p>
+        <div className="featurette-divider"></div>
+
           </div>
           <div class="col-md-5 order-md-1">
             <svg
@@ -172,7 +176,7 @@ function App() {
           <div className="col-lg-4">
             <img
               className="rounded-circle"
-              src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+              src="https://res.cloudinary.com/comida-for-familias-inc/image/upload/v1616891815/comidaforfamilias-site/team/antonio_bxutcy.png"
               alt="Generic placeholder image"
               width="140"
               height="140"
@@ -220,8 +224,8 @@ function App() {
           <a href="#">Back to top</a>
         </p>
         <p>
-          © 2020-2021 Comida For Familias, Inc. · <a href="#">Privacy</a> ·{" "}
-          <a href="#">Terms</a>
+          © 2020-2021 Comida For Familias, Inc. · <a href="https://www.freeprivacypolicy.com/live/0388cac6-4062-47ab-a9d8-59999a7dfee7">Privacy</a> ·{" "}
+          <a href="https://www.privacypolicies.com/live/eefcb546-589b-480d-bc4b-0710a169dbc5">Terms</a>
         </p>
       </footer>
     </div>
